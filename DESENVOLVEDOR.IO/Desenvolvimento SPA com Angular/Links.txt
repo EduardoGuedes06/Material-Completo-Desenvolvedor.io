@@ -1,0 +1,7 @@
+https://angular.io/
+https://angular.io/cli
+https://nx.dev/cli/console
+https://augury.rangle.io/
+https://getbootstrap.com/
+https://material.angular.io/
+https://www.npmjs.com/package/json-server

@@ -1,0 +1,3 @@
+https://www.eduardopires.net.br/2015/01/solid-teoria-e-pratica/
+https://docs.fluentvalidation.net/en/latest/
+https://learn.microsoft.com/pt-br/aspnet/core/?view=aspnetcore-2.2

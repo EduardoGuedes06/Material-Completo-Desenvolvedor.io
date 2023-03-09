@@ -1,0 +1,10 @@
+https://angular.io/docs
+https://www.npmjs.com/package/ng-brazil
+https://www.npmjs.com/package/ng2-validation
+https://rxjs-dev.firebaseapp.com/
+https://ngrx.io/
+https://redux.js.org/
+https://datorama.github.io/akita/
+https://karma-runner.github.io/latest/index.html
+https://jasmine.github.io/
+https://www.protractortest.org/#/

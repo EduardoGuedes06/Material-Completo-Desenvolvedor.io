@@ -1,0 +1,8 @@
+https://www.opengroup.org/togaf
+https://www.iso.org/standard/50508.html
+https://learn.microsoft.com/en-us/previous-versions/cc505968(v=msdn.10)
+https://iasaglobal.org/
+https://www.zachman.com/
+https://www.bpmn.org/
+https://desenvolvedor.io/curso/fundamentos-de-arquitetura-de-software/links-materiais
+https://www.eduardopires.net.br/category/cqrs/

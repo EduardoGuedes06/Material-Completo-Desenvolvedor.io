@@ -1,0 +1,4 @@
+https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
+https://learn.microsoft.com/pt-br/sql/t-sql/functions/functions?view=sql-server-ver15
+https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+https://www.devart.com/dbforge/sql/event-profiler/

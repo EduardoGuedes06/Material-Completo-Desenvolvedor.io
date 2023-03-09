@@ -1,0 +1,5 @@
+https://dotnet.microsoft.com/en-us/download/dotnet
+https://learn.microsoft.com/pt-br/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15#installation-media
+https://visualstudio.microsoft.com/pt-br/
+https://www.jetbrains.com/rider/
+https://www.nuget.org/packages/dotnet-ef/

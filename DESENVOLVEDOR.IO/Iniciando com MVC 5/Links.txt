@@ -1,0 +1,6 @@
+https://visualstudio.microsoft.com/pt-br/
+https://getbootstrap.com/
+https://jquery.com/
+https://learn.microsoft.com/pt-br/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15
+https://learn.microsoft.com/pt-br/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver15
+https://devblogs.microsoft.com/dotnet/attribute-routing-in-asp-net-mvc-5/

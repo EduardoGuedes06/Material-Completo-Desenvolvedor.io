@@ -1,0 +1,8 @@
+https://dotnet.microsoft.com/en-us/download/dotnet
+https://www.cryptool.org/en/ct2/downloads
+https://github.com/dotnet-script/dotnet-script
+https://graui.de/code/ffplot/
+https://learn.microsoft.com/pt-br/windows/wsl/install
+https://code.visualstudio.com/download
+https://www.sagemath.org/download.html
+https://www.python.org/downloads/
